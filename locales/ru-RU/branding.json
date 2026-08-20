@@ -1,0 +1,11 @@
+{
+	"Title": "Маркировка",
+	"Header": "Маркировка",
+	"Branding_Para1": "Лого Flashpoint Было сделано в 2020 участником проекта Seirade. Он лицензирован в соответствии с $1{Creative Commons Attribution 4.0}, которая означает, что его можно свободно модифицировать и распространять до тех пор, пока Seirade и/или Flashpoint получают признание.",
+	"Branding_Para2": "The logo is an abstraction of the initials \"FP\", with the blank space featuring an arrow shape that can be interpreted as a play button or download symbol. It is usually imposed on top of a gradient travelling downward and to the right from $1{#e81c24} to $2{#7c1315}, although this gradient can also be used to color the logo itself. The wordmark uses the Tahoma font.Логотип представляет собой абстракцию от инициалов "FP", а на пустом месте изображена стрелка, которая может быть интерпретирована как кнопка воспроизведения или символ загрузки. Обычно он накладывается поверх градиента, идущего вниз и вправо от $1{#e81c24} до $2 {#7c1315}, хотя этот градиент также можно использовать для раскрашивания самого логотипа. В текстовом знаке используется шрифт Tahoma.",
+	"Assets": "Ассеты",
+	"Wallpapers": "Обои",
+	"Banners": "88x31 Баннеры",
+	"Download": "Скачать",
+	"By_Author": "by $1"
+}
